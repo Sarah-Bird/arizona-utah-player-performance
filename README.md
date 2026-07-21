@@ -51,4 +51,4 @@ R (base), custom-built feedforward neural network (manual forward/backward propa
 
 ---
 
-*This project started as a personal question about whether location accounted for a decade of Coyotes underperformance. The model doesn't support that idea, which is a small point of closure for Arizona hockey fans.
+*This project started as a personal question about whether location accounted for a decade of Coyotes underperformance. The model doesn't support that idea, which is a small point of closure for Arizona hockey fans.*
